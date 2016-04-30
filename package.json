@@ -16,7 +16,7 @@
         "type": "git",
         "url": "https://github.com/Magics-Group/wcjs-renderer"
     },
-    "optionalDependencies": {
+    "peerDependencies": {
         "webchimera.js": "latest"
     }
 }
